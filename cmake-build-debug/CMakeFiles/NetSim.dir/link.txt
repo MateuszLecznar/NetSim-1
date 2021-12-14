@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/NetSim.dir/main.cpp.o -o NetSim 
