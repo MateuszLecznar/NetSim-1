@@ -87,7 +87,19 @@
 		<Unit filename="/home/eaiib/twojcick/CLionProjects/NetSim/include/package.hpp">
 			<Option target="NetSim"/>
 		</Unit>
+		<Unit filename="/home/eaiib/twojcick/CLionProjects/NetSim/include/storage_types.hpp">
+			<Option target="NetSim"/>
+		</Unit>
+		<Unit filename="/home/eaiib/twojcick/CLionProjects/NetSim/include/types.hpp">
+			<Option target="NetSim"/>
+		</Unit>
 		<Unit filename="/home/eaiib/twojcick/CLionProjects/NetSim/main.cpp">
+			<Option target="NetSim"/>
+		</Unit>
+		<Unit filename="/home/eaiib/twojcick/CLionProjects/NetSim/src/package.cpp">
+			<Option target="NetSim"/>
+		</Unit>
+		<Unit filename="/home/eaiib/twojcick/CLionProjects/NetSim/src/storage_types.cpp">
 			<Option target="NetSim"/>
 		</Unit>
 		<Unit filename="/home/eaiib/twojcick/CLionProjects/NetSim/CMakeLists.txt">
